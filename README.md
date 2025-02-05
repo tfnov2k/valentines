@@ -12,8 +12,8 @@ HTML, CSS & JavaScript
 
 ## Screenshots
 <p align="center">
-  <img src="images/screenshot1.png" alt="Screenshot 1" width="320">
-  <img src="images/screenshot2.png" alt="Screenshot 2" width="320">
-  <img src="images/screenshot3.png" alt="Screenshot 3" width="320">
+  <img src="Screenshots/screenshot1.png" alt="Screenshot 1" width="320">
+  <img src="Screenshots/screenshot2.png" alt="Screenshot 2" width="320">
+  <img src="Screenshots/screenshot3.png" alt="Screenshot 3" width="320">
 </p>
 
