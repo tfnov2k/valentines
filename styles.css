@@ -1,0 +1,122 @@
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+    font-family: 'Borel';
+    overflow: hidden;
+    background: linear-gradient(#0007, #0000), #123;
+    background-color: #df6c7f;
+    background-image: url('https://wallpaperbat.com/img/946612-customize-pink-aesthetic-wallpaper-templates-online.jpg');
+    background-size: cover;
+    background-position: center;
+    align-items: center; 
+    height: 100vh;
+}
+
+.audio {
+    width: 100%; 
+    max-width: 300px; 
+    margin-top: 20px; 
+    background-color: #ffebee; 
+    border: 2px solid #ff6b81; 
+    border-radius: 100px; 
+}
+
+.container {
+    text-align: center;
+    background-color: #ffebee;
+    padding: 40px;
+    border-radius: 20px;
+    border: 3px solid #ff6b81;
+    box-shadow: 0 8px 20px rgba(255, 107, 129, 0.3);
+    max-width: 600px;
+    width: 90%;
+    margin-bottom: 20px;
+}
+
+.recipient-from {
+    position: absolute; 
+    color: #faf4f5;
+    left: 100px; 
+    top: 300px; 
+    font-size: 30px; 
+    font-family: 'Borel', serif; 
+    text-shadow: 2px 2px 9px #ff6b81;
+}
+
+.recipient-to {
+    position: absolute; 
+    color: #faf4f5;
+    right: 100px; 
+    top: 300px; 
+    font-size: 30px; 
+    font-family: 'Borel', serif;
+    text-shadow: 2px 2px 9px #ff6b81;
+}
+
+.header_text {
+    font-size: 36px;
+    color: #ff6b81;
+    margin-bottom: 20px;
+    text-shadow: 2px 2px 4px rgba(255, 107, 129, 0.2);
+}
+
+.gif_container img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+.buttons {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.btn {
+    padding: 12px 24px;
+    font-size: 20px;
+    border: 2px solid #ff6b81;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    background-color: #ff6b81;
+    color: white;
+    font-family: 'Akaya Kanadaka', cursive;
+    box-shadow: 0 4px 10px rgba(255, 107, 129, 0.3);
+}
+
+.btn:hover {
+    background-color: white;
+    color: #ff6b81;
+    transform: translateY(-2px);
+    box-shadow: 0 6px 15px rgba(255, 107, 129, 0.4);
+}
+
+#noButton {
+    background-color: #ff4757;
+    border-color: #ff4757;
+}
+
+#noButton:hover {
+    background-color: white;
+    color: #ff4757;
+}
+
+.akaya-kanadaka-regular {
+    font-family: "Akaya Kanadaka", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+  
+.borel-regular {
+    font-family: "Borel", serif;
+    font-weight: 400;
+    font-style: normal;
+}
