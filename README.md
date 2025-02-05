@@ -11,9 +11,7 @@ HTML, CSS & JavaScript
 2. Open `[localpath]/index.html` in your browser to start interacting with the page.
 
 ## Screenshots
-<p align="center">
-  <img src="Screenshots/screenshot1.png" alt="Screenshot 1" width="320">
-  <img src="Screenshots/screenshot2.png" alt="Screenshot 2" width="320">
-  <img src="Screenshots/screenshot3.png" alt="Screenshot 3" width="320">
-</p>
+<img src="Screenshots/screenshot1.png" alt="Screenshot 1" width="400">
+<img src="Screenshots/screenshot2.png" alt="Screenshot 2" width="400">
+<img src="Screenshots/screenshot3.png" alt="Screenshot 3" width="400">
 
